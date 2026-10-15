@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*_summary.txt
+test.pdf
+test.docx
+test.txt
+long_sample.txt
+sample.txt
